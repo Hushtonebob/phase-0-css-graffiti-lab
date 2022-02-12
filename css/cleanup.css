@@ -1,1 +1,38 @@
 /* write your override styles here */
+
+#wall .tag{
+   display: inline; 
+}
+
+
+.tag-1{
+color:chartreuse
+}
+
+#tag-2{
+    color: green ;
+}
+
+#tag-3 {
+color: deeppink;
+}
+
+#tag-4{
+    color: dodgerblue;
+}
+
+#tag-5{
+    color: fuchsia;
+}
+
+#tag-7 {
+    color: lightgreen;
+}
+
+#tag-6 {
+    color: lime;
+}
+
+*{
+    color: skyblue;
+}
